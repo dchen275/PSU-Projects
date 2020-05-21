@@ -1,0 +1,20 @@
+    ===============================================
+           -= Help for "Wheel of Fortune" =-
+           
+    The player has these options from the menu:
+    - spin the wheel and call a consonant
+    - buy a vowel for $250
+    - solve the puzzle
+    - display help
+    - quit the game
+    
+    Each consonant is worth the cash value of the
+    wedge the wheel lands on.
+    
+    If the player lands on Bankrupt their winnings
+    drop to zero.
+    
+    Not implemented yet:
+    - Multiple players
+    - Lose a turn
+    ===============================================
